@@ -2,105 +2,92 @@ header{
 	padding-left: 111px;
 	padding-right: 160px;
 	border-bottom: 2px;
-}
+} 
+#medium{
+	 position: absolute;
+	 padding-top: 15px;
+	 top: 0px;
+	 
+ }
  #coffee {
 	position: absolute;
-	border: 1px solid green;
-	padding-left: 160px;
+	padding-left: 68px;
 	padding-top: 6px;
-
 }
- #medium{
-	 position: absolute;
-	 padding-top: 0px;
-	 padding-left: 400px;
-	 border: 1px solid #d6d6d6;
-	 align-content: center;
-	 display: block;
- }
-
 #dot{
-	padding-right: 180px;
-	padding-top: 8px;
-	position: relative;
-	border-top: 2px;
-}
-#links{
-	color: #a6a6a6;
-	padding-top: 1px;
-	text-decoration: none;
-	word-spacing: 10px;
-	font-size:14px;
-	padding: 12px;
-}
-/*
-
-#search{
-	padding-top: 10px;
-	padding-right: 30px;
-	position: relative;
-}
-
-/*a:link{
+	right: 180px;
+	top: 15px;
+	position: absolute;
 	
 }
-
-a:visited{
+#search{
+	top: 20px;
+	right: 240px;
+	position: absolute;
+}
+.links{
+	padding-top: 9px;
+	position: relative;
+	font-size: 17px;
+	
+}
+a:link {
+	color: #a6a6a6;
+	text-decoration: none ;
+	word-spacing: 8px;
+	font-size: 14px;
+	padding: 7px;
+	font-weight: 20px; 
+}
+#home , #fiction ,#carton,#podcast {
+	color: #a6a6a6;
+	}
+#horizantle{
+	 position: relative;
+	 border: 0px;
+	 padding-left: 10px;
+	 color: black;
+}
+a:hover{
 	color: black;
 }
-
-hr{
-	margin-left: 110px;
-	margin-right: 150px;
-	
-}
-#title{
-	padding-left: 0px;
-
+#content{
+	margin-left: 280px;
+	margin-top: 17px;
+	position: absolute;
 }
 #girl{
-		margin-left: 280px;
-		margin-top: 17px;
-		position: absolute;
-}
-#content{
-
+	position: absolute;
 }
 #girlName{
-	margin-top: 30px;
-	margin-left: 390px;
+	margin-top: 26px;
+	margin-left: 99px;
 	position: absolute;
 }
 h1{
-	margin-left: 280px;
 	margin-top: 170px;
 	position: absolute;
 }
 #train{
-	margin-left: 280px;
-		margin-top: 250px;
-		position: absolute;
+	margin-top: 250px;
+	position: absolute;
 }
 #trainSubText{
 	margin-top:550px;
-	margin-left: 540px;
+	margin-left: 250px;
 	position: absolute;
 }
 #article{
-	margin-left: 280px;
-	padding-right: 60px;
+	margin-right: 100px;
 	margin-top:610px;
-	position: absolute;
-	font-size: 22px;
-	word-spacing: 2px;
-	line-height: 60px;	
-	border: 1px solid green ;
-
-}
-#par{
-	line-height: 30px;
-	word-spacing: 1px;
 	position: relative;
+	font-size: 20px;
+	word-spacing: 2px;
+	line-height: 70px;	
+}
+i{
+	line-height: 20px;
+	position: static;
+
 }
 
-*/
